@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PC2</string>
+    <string name="PC">PCパーツ組み立て</string>
+    <string name="game">ゲームスペックチェック</string>
+    <string name="CPU">CPU</string>
+    <string name="GPU">GPU</string>
+
+
+</resources>
